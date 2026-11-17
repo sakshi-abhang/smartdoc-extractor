@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+numpy
+pandas
+Pillow
+openpyxl
+opencv-python-headless
+rapidocr-onnxruntime
+torch
+transformers
